@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Formok\BelepesFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formok\FomenuFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formok\KiadasBevetelFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formok\PenztarBeallitFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formok\RendszerkonfigFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formok\Megjegyzes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

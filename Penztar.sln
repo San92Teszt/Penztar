@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Penztar", "Penztar\Penztar.csproj", "{AAE72667-EF1C-40D1-BDFF-C3F2BA83AE97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kozpont", "Kozpont\Kozpont.csproj", "{A2D57DC4-A594-4957-964D-40C3BF8EE487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAE72667-EF1C-40D1-BDFF-C3F2BA83AE97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE72667-EF1C-40D1-BDFF-C3F2BA83AE97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE72667-EF1C-40D1-BDFF-C3F2BA83AE97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE72667-EF1C-40D1-BDFF-C3F2BA83AE97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2D57DC4-A594-4957-964D-40C3BF8EE487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D57DC4-A594-4957-964D-40C3BF8EE487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D57DC4-A594-4957-964D-40C3BF8EE487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D57DC4-A594-4957-964D-40C3BF8EE487}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46CC3223-E30A-44BE-B858-AB4C476DB016}
+	EndGlobalSection
+EndGlobal
