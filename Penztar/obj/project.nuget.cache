@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RBD55ZK4iKAoNG54DJCiSjS3gOUGx6l/ABQKHPAPElpBkE2eMUVFoukd45hEMd+cxm+KegtvjZSUzsVCI5W55w==",
+  "dgSpecHash": "i5br0GXhpB8lhh564jPZlw4c2cY+jn6WXtSjOA5AklpKB+Vt2l9CUoVeYPW8RSHe6ITEKZm1A+5O9Pnb0XdqiQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\szand\\source\\repos\\Penztar\\Penztar\\Penztar.csproj",
   "expectedPackageFiles": [
@@ -91,7 +91,8 @@
     "C:\\Users\\szand\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
     "C:\\Users\\szand\\.nuget\\packages\\system.xml.xmldocument\\4.0.1\\system.xml.xmldocument.4.0.1.nupkg.sha512",
     "C:\\Users\\szand\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512",
-    "C:\\Users\\szand\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.0.1\\system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
+    "C:\\Users\\szand\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.0.1\\system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
+    "C:\\Users\\szand\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\5.0.12\\microsoft.netcore.app.host.win-x86.5.0.12.nupkg.sha512"
   ],
   "logs": []
 }

@@ -16,7 +16,6 @@ C:\Users\szand\source\repos\Penztar\Penztar\bin\Debug\net5.0-windows\Zstandard.N
 C:\Users\szand\source\repos\Penztar\Penztar\bin\Debug\net5.0-windows\Renci.SshNet.dll
 C:\Users\szand\source\repos\Penztar\Penztar\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
 C:\Users\szand\source\repos\Penztar\Penztar\bin\Debug\net5.0-windows\System.Xml.XPath.XmlDocument.dll
-C:\Users\szand\source\repos\Penztar\Penztar\obj\Debug\net5.0-windows\Penztar.csprojAssemblyReference.cache
 C:\Users\szand\source\repos\Penztar\Penztar\obj\Debug\net5.0-windows\Penztar.BelepesFrm.resources
 C:\Users\szand\source\repos\Penztar\Penztar\obj\Debug\net5.0-windows\Penztar.FomenuFrm.resources
 C:\Users\szand\source\repos\Penztar\Penztar\obj\Debug\net5.0-windows\Penztar.PenztarBeallitFrm.resources
@@ -34,3 +33,4 @@ C:\Users\szand\source\repos\Penztar\Penztar\obj\Debug\net5.0-windows\Penztar.gen
 C:\Users\szand\source\repos\Penztar\Penztar\obj\Debug\net5.0-windows\Penztar.KiadasBevetelFrm.resources
 C:\Users\szand\source\repos\Penztar\Penztar\obj\Debug\net5.0-windows\Penztar.Megjegyzes.resources
 C:\Users\szand\source\repos\Penztar\Penztar\obj\Debug\net5.0-windows\Penztar.Properties.Resources.resources
+C:\Users\szand\source\repos\Penztar\Penztar\obj\Debug\net5.0-windows\Penztar.csproj.AssemblyReference.cache

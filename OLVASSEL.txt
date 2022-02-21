@@ -1,0 +1,7 @@
+A projekt két programból áll. Az egyiket a pénztárosok használják, a másikat a központi diszpécserek. Ez utóbbi program még nem készült el. 
+A fő mappában található egy penztar1.sql fájl. Szükséges egy MySql szervert indítani például XAMPP segítségével, majd készíteni kell egy "penztar" nevű adatbázist. Ezt követően importálhatod az adatbázist.
+A programba felhasználónévvel és jelszóval kell belépni. Az adatbázis alapból két felhasználót tartalmaz. Az egyik egy admin, a másik egy normál jogosultságú. Az admin jogosultság alatt állíthatjuk be a szerverkapcsolatot. 
+A felhasználónevek:
+1. felh: valaki jel:pass (admin)
+2. felh: abc jel:kod  (nem admin)
+A program indítási helye: \Penztar\bin\Debug\net5.0-windows\Penztar.exe
